@@ -6,9 +6,9 @@ Given a normal two sided 95 percent confidence interva 158 to 168 solve for mu a
 
     Stat 101
 
-
-
-
+    github                                                                                                                         
+    https://tinyurl.com/49pxrb3t                                                                                                   
+    https://github.com/rogerjdeangelis/utl-given-a-normal-two-sided-95-percent-confidence-interva-158-to-168-solve-for-mu-and-sigma
 
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
